@@ -7,6 +7,22 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+## 演示 Demo
+
+<p align="center">
+  <img src="demo/图片加密.gif" width="400" alt="加密图片">
+  <img src="demo/解密图片.gif" width="400" alt="浏览解密">
+</p>
+
+<p align="center">
+  <img src="demo/图片加密浏览.gif" width="400" alt="图库浏览">
+  <img src="demo/动图加密浏览.gif" width="400" alt="GIF动图">
+</p>
+
+<p align="center">
+  <img src="demo/快捷键隐藏.gif" width="400" alt="老板键">
+</p>
+
 ---
 
 ## 功能 Features
