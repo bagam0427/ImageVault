@@ -1,8 +1,8 @@
-# ImageVault 🔒
+# ImageVault — Windows 图片加密保险库
 
-> AES-256-GCM 加密图片保险库 | Encrypted Image Vault
+> AES-256-GCM 加密，内存解密，绝不写入磁盘 | Encrypted Image Vault for Windows
 
-一个安全、本地化的加密图片查看器。所有图片以 AES-256-GCM 加密存储，仅在内存中解密，**绝不写入磁盘**。
+把你的私密图片锁进保险库。密码错误什么都看不到，老板键一键隐藏，安全、简单、离线。
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
