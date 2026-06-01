@@ -60,9 +60,8 @@ build_exe.bat    # 或手动运行:
 
 ## 打赏 Donate
 
-如果觉得好用，请我喝杯咖啡 ☕
-
-![微信赞赏码](qrcode_wx.png)
+<p align="center"><sub>如果觉得好用，请我喝杯咖啡 ☕</sub></p>
+<p align="center"><img src="qrcode_wx.png" width="160" alt="微信赞赏码"></p>
 
 ---
 
