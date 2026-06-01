@@ -9,6 +9,12 @@
 
 ## 演示 Demo
 
+<p align="center"><b>密码保护 — 正确密码 (123456) 正常显示</b></p>
+<p align="center"><img src="demo/密码正确.gif" width="500" alt="密码正确"></p>
+
+<p align="center"><b>密码错误 (123) 无法看到加密图片</b></p>
+<p align="center"><img src="demo/密码错误.gif" width="500" alt="密码错误"></p>
+
 <p align="center"><b>图片加密</b></p>
 <p align="center"><img src="demo/图片加密.gif" width="500" alt="加密图片"></p>
 
