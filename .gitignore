@@ -1,0 +1,25 @@
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Runtime data (generated at runtime, contains user data)
+VAULT/
+*.dat
+config.json
+startup.log
+
+# IDE
+.vscode/
+.idea/
+
+# Personal notes
+打包.txt
+
+# OS
+Thumbs.db
+.DS_Store
