@@ -62,11 +62,7 @@ build_exe.bat    # 或手动运行:
 
 如果觉得好用，请我喝杯咖啡 ☕
 
-| 微信 WeChat | 支付宝 Alipay |
-|---|---|
-| ![微信](qrcode_wx.png) | ![支付宝](qrcode_alipay.png) |
-
-> 替换 `qrcode_wx.png` 和 `qrcode_alipay.png` 为你的收款码。
+![微信赞赏码](qrcode_wx.png)
 
 ---
 
